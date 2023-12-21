@@ -1,0 +1,11 @@
+site:
+title: Örnek Bir Site
+description: Bu bir YAML örneğidir.
+url: https://www.example.com
+is_active: true
+categories:
+  - Teknoloji
+  - Java
+author:
+name: Büşra Demirbaş
+email: demirbasbusra065@gmail.com

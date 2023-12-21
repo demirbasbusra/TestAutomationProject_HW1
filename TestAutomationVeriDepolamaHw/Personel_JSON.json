@@ -1,0 +1,13 @@
+{
+  "person": {
+    "name": "Büşra Demirbaş",
+    "age": 26,
+    "address": {
+      "street": "Yenimahalle",
+      "city": "Ankara",
+      "state": "Ankara",
+      "zipcode": "12345"
+    },
+    "email": "demirbasbusra065@gmail.com"
+  }
+}
