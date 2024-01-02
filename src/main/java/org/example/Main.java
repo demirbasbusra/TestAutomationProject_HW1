@@ -9,6 +9,7 @@ public class Main {
         Muhasebe departmanı için personelin çalıştığı gün bilgisini girdiğinde bu girilen gün üzerinden maaşını hesaplayan ve
          eğer personelin o ay için çalıştığı gün sayısı 25’ten fazla ise fazla olan her gün için ekstra 1000TL prim veren metodu yazınız
          */
+        System.out.println("*******************************");
         System.out.println("DERS 6 ÖDEV 5");
         Scanner scanner = new Scanner(System.in);
         int workDayNumber = scanner.nextInt();
