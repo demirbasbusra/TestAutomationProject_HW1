@@ -12,7 +12,7 @@ public class HW7_DERS10 {
         NEPTUNE(950.000),
         PLUTON(980.000);
 
-        private double distanceFromSun; //
+        private double distanceFromSun; //mesafeler
 
         Planets(double distanceFromSun) {
             this.distanceFromSun = distanceFromSun;

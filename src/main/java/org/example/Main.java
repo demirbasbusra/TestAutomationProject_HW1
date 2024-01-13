@@ -25,7 +25,7 @@ public class Main {
         double distance1 = planet1.getDistanceFromSun();
         double distance2 = planet2.getDistanceFromSun();
 
-        return Math.abs(distance1 - distance2); //mesafeler arası hesaplama
+        return Math.abs(distance1 - distance2); //mesafeler arası hesaplamac
 
 
 
